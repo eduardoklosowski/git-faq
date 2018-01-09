@@ -9,4 +9,5 @@ Este não é um texto finalizado, recebendo atualizações com novos tópicos co
 .. toctree::
   :maxdepth: 3
 
+  arquivos-versionados/index
   licenca
