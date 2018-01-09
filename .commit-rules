@@ -1,0 +1,2 @@
+Git Check: git diff --cached --check
+Sphinx: sphinx-build -E -W -b dummy -d _build/doctrees . _build/html
