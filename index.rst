@@ -10,4 +10,5 @@ Este não é um texto finalizado, recebendo atualizações com novos tópicos co
   :maxdepth: 3
 
   arquivos-versionados/index
+  extra/index
   licenca
