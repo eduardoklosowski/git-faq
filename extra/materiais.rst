@@ -17,6 +17,12 @@ Tutoriais
 - `Katacoda - Git <https://katacoda.com/courses/git>`_
 
 
+Textos
+------
+
+- `Commit messages guide <https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_pt-BR.md>`_
+
+
 Vídeos
 ------
 
