@@ -34,3 +34,4 @@ Ferramentas
 -----------
 
 - `Learn Git Branching <https://pcottle.github.io/learnGitBranching/>`_
+- `gitvisual <http://gitvisual.com/>`_
