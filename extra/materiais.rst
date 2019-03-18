@@ -35,3 +35,9 @@ Ferramentas
 
 - `Learn Git Branching <https://pcottle.github.io/learnGitBranching/>`_
 - `gitvisual <http://gitvisual.com/>`_
+
+
+Slides
+------
+
+- `O que é o Git? <https://prezi.com/6rdfy4deqox1/apresentacao-git/>`_
