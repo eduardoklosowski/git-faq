@@ -28,6 +28,7 @@ Vídeos
 
 - `Introdução ao Git <http://palestras.softwarelivre.org/palestra/introducao-ao-git/>`_
 - `Git para quem gosta de Git <http://palestras.softwarelivre.org/palestra/git-para-quem-gosta-de-git/>`_
+- `Git na Prática <https://www.youtube.com/playlist?list=PLSbD5F_Z_s7b5TJF80zb5dQojao9UQLxL>`_
 
 
 Ferramentas
