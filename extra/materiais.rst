@@ -41,4 +41,5 @@ Ferramentas
 Slides
 ------
 
+- `Controle de versão com git <https://docs.google.com/presentation/d/10xRgWUk8SJXzup2fA972oF_c7e4sKGs6uxySWwSdyss/edit?usp=sharing>`_
 - `O que é o Git? <https://prezi.com/6rdfy4deqox1/apresentacao-git/>`_
