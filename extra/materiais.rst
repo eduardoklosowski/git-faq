@@ -46,6 +46,13 @@ Slides
 - `O que é o Git? <https://prezi.com/6rdfy4deqox1/apresentacao-git/>`_
 
 
+Cursos
+------
+
+- `Git e Github para iniciantes <https://www.udemy.com/git-e-github-para-iniciantes/>`_
+- `Git e Github <https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/>`_
+
+
 Assuntos Relacionados
 ---------------------
 
