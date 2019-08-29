@@ -15,6 +15,7 @@ Tutoriais
 - `git - guia prático - sem complicação! <https://rogerdudler.github.io/git-guide/index.pt_BR.html>`_
 - `Try Git <https://try.github.io/>`_
 - `Katacoda - Git <https://katacoda.com/courses/git>`_
+- `Git How To: Tutorial Guiado de Git <https://githowto.com/pt-BR>`_
 
 
 Textos
