@@ -22,6 +22,7 @@ Textos
 ------
 
 - `Commit messages guide <https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_pt-BR.md>`_
+- `Conventional Commits <https://www.conventionalcommits.org/pt-br/>`_
 
 
 Vídeos
@@ -30,6 +31,7 @@ Vídeos
 - `Introdução ao Git <http://palestras.softwarelivre.org/palestra/introducao-ao-git/>`_
 - `Git para quem gosta de Git <http://palestras.softwarelivre.org/palestra/git-para-quem-gosta-de-git/>`_
 - `Git na Prática <https://www.youtube.com/playlist?list=PLSbD5F_Z_s7b5TJF80zb5dQojao9UQLxL>`_
+- `Dominando o Git <https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq>`_
 
 
 Ferramentas
