@@ -30,6 +30,7 @@ Vídeos
 
 - `Introdução ao Git <http://palestras.softwarelivre.org/palestra/introducao-ao-git/>`_
 - `Git para quem gosta de Git <http://palestras.softwarelivre.org/palestra/git-para-quem-gosta-de-git/>`_
+- `Entendendo GIT | (Não é um tutorial!) <https://www.youtube.com/watch?v=6Czd1Yetaac>`_
 - `Git na Prática <https://www.youtube.com/playlist?list=PLSbD5F_Z_s7b5TJF80zb5dQojao9UQLxL>`_
 - `Dominando o Git <https://www.youtube.com/playlist?list=PL9aKtVrF05DzbNiE7jcm7s6z6Lg-u72Rq>`_
 
