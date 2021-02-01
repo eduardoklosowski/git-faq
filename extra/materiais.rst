@@ -21,6 +21,7 @@ Tutoriais
 Textos
 ------
 
+- `Boas práticas para usar o git <https://dev.to/lucasscharf/boas-praticas-para-usar-o-git-2e0e>`_
 - `Commit messages guide <https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_pt-BR.md>`_
 - `Conventional Commits <https://www.conventionalcommits.org/pt-br/>`_
 
