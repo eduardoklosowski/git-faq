@@ -16,6 +16,7 @@ Tutoriais
 - `Try Git <https://try.github.io/>`_
 - `Katacoda - Git <https://katacoda.com/courses/git>`_
 - `Git How To: Tutorial Guiado de Git <https://githowto.com/pt-BR>`_
+- `GIT PURR! Git Commands Explained with Cats! <https://girliemac.com/blog/2017/12/26/git-purr/>`_
 
 
 Textos
